@@ -4,3 +4,18 @@
 [submodule "lib-foundry/counter/counter/lib/forge-std"]
 	path = lib-foundry/counter/counter/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "Tareas/1-JulioECR3447/testeth4337/lib/forge-std"]
+	path = Tareas/1-JulioECR3447/testeth4337/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "Tareas/1-JulioECR3447/test-Claud/AccountAbstractionTask/lib/forge-std"]
+	path = Tareas/1-JulioECR3447/test-Claud/AccountAbstractionTask/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "lib/account-abstraction"]
+	path = lib/account-abstraction
+	url = https://github.com/eth-infinitism/account-abstraction
+[submodule "Tareas/1-JulioECR3447/testeth4337/lib/account-abstraction"]
+	path = Tareas/1-JulioECR3447/testeth4337/lib/account-abstraction
+	url = https://github.com/eth-infinitism/account-abstraction
+[submodule "Tareas/1-JulioECR3447/testeth4337/lib/openzeppelin-contracts"]
+	path = Tareas/1-JulioECR3447/testeth4337/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
